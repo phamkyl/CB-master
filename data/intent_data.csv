@@ -1,0 +1,639 @@
+text,label,answer
+Shop ơi,greeting,
+Chụp hình sắc nét không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Có hỗ trợ thẻ nhớ không?,storage_question,"Bộ nhớ trong từ 128GB đến 512GB, có hỗ trợ mở rộng bằng thẻ nhớ."
+Cảm ơn nhé,goodbye,
+Máy có hỗ trợ chụp đêm không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Hẹn gặp lại,goodbye,
+Có máy Xiaomi không?,brand_question,
+Máy có hỗ trợ quay phim 4K không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy này giá bao nhiêu?,price_request,
+Hello,greeting,
+Máy dùng được mấy tiếng?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Bao nhiêu tiền?,price_request,
+Chụp hình đẹp không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Có hỗ trợ thẻ nhớ không?,storage_question,"Bộ nhớ trong từ 128GB đến 512GB, có hỗ trợ mở rộng bằng thẻ nhớ."
+Shop ơi,greeting,
+Có điện thoại Samsung không?,brand_question,
+Bên mình bán iPhone chứ?,brand_question,
+Tạm biệt,goodbye,
+Máy này giá bao nhiêu?,price_request,
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Chụp hình sắc nét không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chào shop,greeting,
+Cảm ơn nhé,goodbye,
+Camera của điện thoại này mấy chấm?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chụp hình rõ không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chụp hình đẹp không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chụp hình đẹp không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chào shop,greeting,
+Chào shop,greeting,
+Bye shop,goodbye,
+Tạm biệt,goodbye,
+Bye shop,goodbye,
+Chào shop,greeting,
+Chụp hình đẹp không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy có hỗ trợ chống rung OIS không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Hello,greeting,
+Chào shop,greeting,
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chụp hình đẹp không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Hẹn gặp lại,goodbye,
+Hello,greeting,
+Chụp hình sắc nét không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Có máy Xiaomi không?,brand_question,
+Máy có hỗ trợ quay phim 4K không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera của điện thoại này bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy có hỗ trợ chống rung OIS không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy này giá bao nhiêu?,price_request,
+Chụp hình rõ không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Shop ơi,greeting,
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Tạm biệt,goodbye,
+Có điện thoại Samsung không?,brand_question,
+Có máy Xiaomi không?,brand_question,
+Máy có hỗ trợ chống rung OIS không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Cảm ơn nhé,goodbye,
+Bao nhiêu tiền?,price_request,
+Bye shop,goodbye,
+Xin chào,greeting,
+Có điện thoại Samsung không?,brand_question,
+Hẹn gặp lại,goodbye,
+Hẹn gặp lại,goodbye,
+Hẹn gặp lại,goodbye,
+Bao nhiêu tiền?,price_request,
+Máy có hỗ trợ chụp đêm không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Xin chào,greeting,
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Dung lượng pin bao nhiêu?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+RAM của điện thoại này là 6GB?,ram_question,"Điện thoại có các tùy chọn RAM từ 6GB đến 12GB, đáp ứng tốt đa nhiệm."
+Chào shop,greeting,
+Tạm biệt,goodbye,
+Có hỗ trợ thẻ nhớ không?,storage_question,"Bộ nhớ trong từ 128GB đến 512GB, có hỗ trợ mở rộng bằng thẻ nhớ."
+Bao nhiêu tiền?,price_request,
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Tạm biệt,goodbye,
+Máy có hỗ trợ chụp đêm không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy có hỗ trợ chụp đêm không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy dùng được mấy tiếng?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy có hỗ trợ chụp đêm không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy có hỗ trợ chống rung OIS không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Có điện thoại Samsung không?,brand_question,
+Chào shop,greeting,
+Bao nhiêu tiền?,price_request,
+Chào shop,greeting,
+Có máy Xiaomi không?,brand_question,
+Dung lượng pin bao nhiêu?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Bên mình bán iPhone chứ?,brand_question,
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy có bao nhiêu GB RAM?,ram_question,"Điện thoại có các tùy chọn RAM từ 6GB đến 12GB, đáp ứng tốt đa nhiệm."
+Pin có trâu không?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Hẹn gặp lại,goodbye,
+Máy có hỗ trợ quay phim 4K không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chào shop,greeting,
+Hello,greeting,
+Máy dùng được mấy tiếng?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Hiệu năng chơi game tốt không?,chip_question,"Máy trang bị chip Snapdragon 8 Gen 1, cho hiệu năng mạnh mẽ khi chơi game và xử lý tác vụ nặng."
+Máy này giá bao nhiêu?,price_request,
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Máy có hỗ trợ quay phim 4K không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Xin chào,greeting,
+Shop ơi,greeting,
+Cảm ơn nhé,goodbye,
+Bên mình bán iPhone chứ?,brand_question,
+Camera của điện thoại này độ phân giải bao nhiêu?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Pin có bền không?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Hẹn gặp lại,goodbye,
+Bên mình bán iPhone chứ?,brand_question,
+Máy có hỗ trợ quay phim 4K không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Tạm biệt,goodbye,
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera của điện thoại này độ phân giải bao nhiêu?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Có tùy chọn RAM 6GB không?,ram_question,"Điện thoại có các tùy chọn RAM từ 6GB đến 12GB, đáp ứng tốt đa nhiệm."
+Bên mình bán iPhone chứ?,brand_question,
+Hẹn gặp lại,goodbye,
+Camera của điện thoại này mấy chấm?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy này giá bao nhiêu?,price_request,
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bao nhiêu tiền?,price_request,
+Chụp hình đẹp không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chụp hình sắc nét không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy này giá bao nhiêu?,price_request,
+Hẹn gặp lại,goodbye,
+Máy này giá bao nhiêu?,price_request,
+Bye shop,goodbye,
+Cảm ơn nhé,goodbye,
+Có điện thoại Samsung không?,brand_question,
+Máy này giá bao nhiêu?,price_request,
+Pin có bền không?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Chụp hình đẹp không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Hello,greeting,
+Hello,greeting,
+Bye shop,goodbye,
+Tạm biệt,goodbye,
+Pin có trâu không?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Hẹn gặp lại,goodbye,
+Camera của điện thoại này bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera của điện thoại này bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Xin chào,greeting,
+Bye shop,goodbye,
+Cảm ơn nhé,goodbye,
+Pin có trâu không?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Hẹn gặp lại,goodbye,
+Máy có bộ nhớ trong bao nhiêu?,storage_question,"Bộ nhớ trong từ 128GB đến 512GB, có hỗ trợ mở rộng bằng thẻ nhớ."
+Dung lượng pin là bao nhiêu?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Dung lượng pin là bao nhiêu?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Có máy Xiaomi không?,brand_question,
+Máy dùng được mấy tiếng?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Chụp hình rõ không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chụp hình đẹp không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy có hỗ trợ chống rung OIS không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera của điện thoại này bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Shop ơi,greeting,
+Cảm ơn nhé,goodbye,
+Camera của điện thoại này độ phân giải bao nhiêu?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bao nhiêu tiền?,price_request,
+Camera của điện thoại này độ phân giải bao nhiêu?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera của điện thoại này mấy chấm?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Shop ơi,greeting,
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chào shop,greeting,
+Có điện thoại Samsung không?,brand_question,
+Có tùy chọn RAM 12GB không?,ram_question,"Điện thoại có các tùy chọn RAM từ 6GB đến 12GB, đáp ứng tốt đa nhiệm."
+RAM của điện thoại này là 8GB?,ram_question,"Điện thoại có các tùy chọn RAM từ 6GB đến 12GB, đáp ứng tốt đa nhiệm."
+Camera của điện thoại này độ phân giải bao nhiêu?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera của điện thoại này bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chào shop,greeting,
+Có máy Xiaomi không?,brand_question,
+Có điện thoại Samsung không?,brand_question,
+Chào shop,greeting,
+Xin chào,greeting,
+Shop ơi,greeting,
+Hẹn gặp lại,goodbye,
+Máy có hỗ trợ chống rung OIS không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Dung lượng pin bao nhiêu?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Máy dùng chip gì?,chip_question,"Máy trang bị chip Snapdragon 8 Gen 1, cho hiệu năng mạnh mẽ khi chơi game và xử lý tác vụ nặng."
+Cảm ơn nhé,goodbye,
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy dùng chip gì?,chip_question,"Máy trang bị chip Snapdragon 8 Gen 1, cho hiệu năng mạnh mẽ khi chơi game và xử lý tác vụ nặng."
+Có máy Xiaomi không?,brand_question,
+Máy này giá bao nhiêu?,price_request,
+Máy dùng được bao lâu?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Shop ơi,greeting,
+Tạm biệt,goodbye,
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Có máy Xiaomi không?,brand_question,
+Camera của điện thoại này độ phân giải bao nhiêu?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy có bao nhiêu GB RAM?,ram_question,"Điện thoại có các tùy chọn RAM từ 6GB đến 12GB, đáp ứng tốt đa nhiệm."
+Shop ơi,greeting,
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Cảm ơn nhé,goodbye,
+Máy dùng chip gì?,chip_question,"Máy trang bị chip Snapdragon 8 Gen 1, cho hiệu năng mạnh mẽ khi chơi game và xử lý tác vụ nặng."
+Tạm biệt,goodbye,
+Cảm ơn nhé,goodbye,
+Bên mình bán iPhone chứ?,brand_question,
+Máy này giá bao nhiêu?,price_request,
+Camera của điện thoại này mấy chấm?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Hẹn gặp lại,goodbye,
+Dung lượng pin bao nhiêu?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Bao nhiêu tiền?,price_request,
+Máy có hỗ trợ chụp đêm không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bên mình bán iPhone chứ?,brand_question,
+Camera của điện thoại này bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bên mình bán iPhone chứ?,brand_question,
+Bao nhiêu tiền?,price_request,
+Camera của điện thoại này độ phân giải bao nhiêu?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera của điện thoại này bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bye shop,goodbye,
+Xin chào,greeting,
+Máy có hỗ trợ chụp đêm không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Shop ơi,greeting,
+Máy có bao nhiêu giga RAM?,ram_question,"Điện thoại có các tùy chọn RAM từ 6GB đến 12GB, đáp ứng tốt đa nhiệm."
+Bao nhiêu tiền?,price_request,
+Cảm ơn nhé,goodbye,
+Camera của điện thoại này bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chào shop,greeting,
+Tạm biệt,goodbye,
+Chụp hình sắc nét không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Cảm ơn nhé,goodbye,
+Hello,greeting,
+Bye shop,goodbye,
+Có điện thoại Samsung không?,brand_question,
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Hẹn gặp lại,goodbye,
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Shop ơi,greeting,
+Máy có hỗ trợ quay phim 4K không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera của điện thoại này độ phân giải bao nhiêu?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Hello,greeting,
+Chụp hình đẹp không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Tạm biệt,goodbye,
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Chụp hình rõ không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Camera của điện thoại này mấy chấm?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bên mình bán iPhone chứ?,brand_question,
+Máy có hỗ trợ chống rung OIS không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Hello,greeting,
+Chụp hình đẹp không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bye shop,goodbye,
+Máy dùng được mấy tiếng?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Bye shop,goodbye,
+Pin có tốt không?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Tạm biệt,goodbye,
+Có điện thoại Samsung không?,brand_question,
+Dung lượng pin bao nhiêu?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Hello,greeting,
+Chào shop,greeting,
+Máy này giá bao nhiêu?,price_request,
+Cảm ơn nhé,goodbye,
+Máy có hỗ trợ quay phim 4K không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy có hỗ trợ chống rung OIS không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Cảm ơn nhé,goodbye,
+Có máy Xiaomi không?,brand_question,
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Bao nhiêu tiền?,price_request,
+Tạm biệt,goodbye,
+Bên mình bán iPhone chứ?,brand_question,
+Camera của điện thoại này bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Có tùy chọn RAM 8GB không?,ram_question,"Điện thoại có các tùy chọn RAM từ 6GB đến 12GB, đáp ứng tốt đa nhiệm."
+Cảm ơn nhé,goodbye,
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy có hỗ trợ quay phim 4K không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Có máy Xiaomi không?,brand_question,
+Chào shop,greeting,
+Máy có bao nhiêu giga RAM?,ram_question,"Điện thoại có các tùy chọn RAM từ 6GB đến 12GB, đáp ứng tốt đa nhiệm."
+Máy này giá bao nhiêu?,price_request,
+Chụp hình rõ không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Có máy Xiaomi không?,brand_question,
+Hẹn gặp lại,goodbye,
+Bên mình bán iPhone chứ?,brand_question,
+Có điện thoại Samsung không?,brand_question,
+Camera của điện thoại này bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Shop ơi,greeting,
+Cảm ơn nhé,goodbye,
+Có máy Xiaomi không?,brand_question,
+Shop ơi,greeting,
+Bye shop,goodbye,
+Bên mình bán iPhone chứ?,brand_question,
+Camera của điện thoại này mấy chấm?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bye shop,goodbye,
+Camera của điện thoại này độ phân giải bao nhiêu?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy có hỗ trợ chống rung OIS không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Có máy Xiaomi không?,brand_question,
+Cảm ơn nhé,goodbye,
+Máy có hỗ trợ chụp đêm không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Tạm biệt,goodbye,
+Giá điện thoại là bao nhiêu vậy?,price_request,
+RAM của điện thoại này là 12GB?,ram_question,"Điện thoại có các tùy chọn RAM từ 6GB đến 12GB, đáp ứng tốt đa nhiệm."
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Lưu trữ được nhiều video không?,storage_question,"Bộ nhớ trong từ 128GB đến 512GB, có hỗ trợ mở rộng bằng thẻ nhớ."
+Máy dùng được bao lâu?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Hello,greeting,
+Có điện thoại Samsung không?,brand_question,
+Chào shop,greeting,
+Tạm biệt,goodbye,
+Dung lượng pin là bao nhiêu?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Bên mình bán iPhone chứ?,brand_question,
+Có điện thoại Samsung không?,brand_question,
+Bên mình bán iPhone chứ?,brand_question,
+Máy có hỗ trợ chụp đêm không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chụp hình sắc nét không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Shop ơi,greeting,
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy có hỗ trợ chống rung OIS không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chụp hình đẹp không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy này giá bao nhiêu?,price_request,
+Máy này giá bao nhiêu?,price_request,
+Có điện thoại Samsung không?,brand_question,
+Lưu trữ được nhiều ảnh không?,storage_question,"Bộ nhớ trong từ 128GB đến 512GB, có hỗ trợ mở rộng bằng thẻ nhớ."
+Có điện thoại Samsung không?,brand_question,
+Máy có bao nhiêu GB RAM?,ram_question,"Điện thoại có các tùy chọn RAM từ 6GB đến 12GB, đáp ứng tốt đa nhiệm."
+Hello,greeting,
+Chụp hình rõ không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Có tùy chọn RAM 12GB không?,ram_question,"Điện thoại có các tùy chọn RAM từ 6GB đến 12GB, đáp ứng tốt đa nhiệm."
+Shop ơi,greeting,
+Hello,greeting,
+Máy có hỗ trợ chống rung OIS không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy này giá bao nhiêu?,price_request,
+Chụp hình sắc nét không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy có hỗ trợ quay phim 4K không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bao nhiêu tiền?,price_request,
+Hẹn gặp lại,goodbye,
+Chụp hình đẹp không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera của điện thoại này mấy chấm?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy có hỗ trợ quay phim 4K không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Shop ơi,greeting,
+Máy có hỗ trợ chống rung OIS không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Có máy Xiaomi không?,brand_question,
+Hello,greeting,
+Có điện thoại Samsung không?,brand_question,
+Có máy Xiaomi không?,brand_question,
+Máy có hỗ trợ quay phim 4K không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Cảm ơn nhé,goodbye,
+Có máy Xiaomi không?,brand_question,
+Xin chào,greeting,
+Máy này giá bao nhiêu?,price_request,
+Có điện thoại Samsung không?,brand_question,
+Shop ơi,greeting,
+Bye shop,goodbye,
+Hẹn gặp lại,goodbye,
+Bao nhiêu tiền?,price_request,
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Xin chào,greeting,
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Có tùy chọn RAM 8GB không?,ram_question,"Điện thoại có các tùy chọn RAM từ 6GB đến 12GB, đáp ứng tốt đa nhiệm."
+Tạm biệt,goodbye,
+Máy này giá bao nhiêu?,price_request,
+Bye shop,goodbye,
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Máy có hỗ trợ chống rung OIS không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Shop ơi,greeting,
+Chụp hình đẹp không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chào shop,greeting,
+Có điện thoại Samsung không?,brand_question,
+Chụp hình rõ không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Có điện thoại Samsung không?,brand_question,
+Camera của điện thoại này độ phân giải bao nhiêu?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Hiệu năng có mạnh không?,chip_question,"Máy trang bị chip Snapdragon 8 Gen 1, cho hiệu năng mạnh mẽ khi chơi game và xử lý tác vụ nặng."
+Chụp hình sắc nét không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chụp hình rõ không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Pin có trâu không?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Dùng Snapdragon hay MediaTek?,chip_question,"Máy trang bị chip Snapdragon 8 Gen 1, cho hiệu năng mạnh mẽ khi chơi game và xử lý tác vụ nặng."
+Xin chào,greeting,
+RAM của điện thoại này là 6GB?,ram_question,"Điện thoại có các tùy chọn RAM từ 6GB đến 12GB, đáp ứng tốt đa nhiệm."
+Máy có hỗ trợ chống rung OIS không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Có máy Xiaomi không?,brand_question,
+Máy có hỗ trợ chụp đêm không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chụp hình rõ không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Xin chào,greeting,
+Shop ơi,greeting,
+Camera của điện thoại này độ phân giải bao nhiêu?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bao nhiêu tiền?,price_request,
+Có máy Xiaomi không?,brand_question,
+Tạm biệt,goodbye,
+Có máy Xiaomi không?,brand_question,
+Camera của điện thoại này mấy chấm?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Hello,greeting,
+Máy có hỗ trợ quay phim 4K không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Hello,greeting,
+Xin chào,greeting,
+Camera của điện thoại này độ phân giải bao nhiêu?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera của điện thoại này mấy chấm?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chụp hình sắc nét không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Có điện thoại Samsung không?,brand_question,
+Cảm ơn nhé,goodbye,
+Máy này giá bao nhiêu?,price_request,
+Camera của điện thoại này bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bao nhiêu tiền?,price_request,
+Máy này giá bao nhiêu?,price_request,
+Xin chào,greeting,
+Hẹn gặp lại,goodbye,
+Máy có bộ nhớ trong bao nhiêu?,storage_question,"Bộ nhớ trong từ 128GB đến 512GB, có hỗ trợ mở rộng bằng thẻ nhớ."
+Chụp hình rõ không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bye shop,goodbye,
+Chào shop,greeting,
+Hello,greeting,
+Chụp hình rõ không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera của điện thoại này độ phân giải bao nhiêu?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bên mình bán iPhone chứ?,brand_question,
+Hẹn gặp lại,goodbye,
+Dùng Snapdragon hay MediaTek?,chip_question,"Máy trang bị chip Snapdragon 8 Gen 1, cho hiệu năng mạnh mẽ khi chơi game và xử lý tác vụ nặng."
+Camera của điện thoại này bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy dùng được bao lâu?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Bye shop,goodbye,
+Bye shop,goodbye,
+Bao nhiêu tiền?,price_request,
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Hello,greeting,
+Hẹn gặp lại,goodbye,
+Xin chào,greeting,
+Xin chào,greeting,
+Bên mình bán iPhone chứ?,brand_question,
+Hello,greeting,
+Máy có hỗ trợ chống rung OIS không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bye shop,goodbye,
+Xin chào,greeting,
+Chụp hình rõ không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Tạm biệt,goodbye,
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Bye shop,goodbye,
+Máy có hỗ trợ quay phim 4K không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy có hỗ trợ chống rung OIS không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Tạm biệt,goodbye,
+Hẹn gặp lại,goodbye,
+Máy có hỗ trợ quay phim 4K không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bên mình bán iPhone chứ?,brand_question,
+Máy có hỗ trợ chụp đêm không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Xin chào,greeting,
+Bye shop,goodbye,
+Máy có hỗ trợ chụp đêm không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Máy này giá bao nhiêu?,price_request,
+Chụp hình sắc nét không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chụp hình rõ không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera của điện thoại này bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bao nhiêu tiền?,price_request,
+Camera của điện thoại này mấy chấm?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy có hỗ trợ chụp đêm không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bye shop,goodbye,
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bên mình bán iPhone chứ?,brand_question,
+Chụp hình rõ không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chụp hình rõ không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Tạm biệt,goodbye,
+RAM của điện thoại này là 8GB?,ram_question,"Điện thoại có các tùy chọn RAM từ 6GB đến 12GB, đáp ứng tốt đa nhiệm."
+Bao nhiêu tiền?,price_request,
+Camera của điện thoại này độ phân giải bao nhiêu?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Dung lượng pin là bao nhiêu?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Có máy Xiaomi không?,brand_question,
+Máy này giá bao nhiêu?,price_request,
+Chụp hình đẹp không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy có hỗ trợ chụp đêm không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bao nhiêu tiền?,price_request,
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Shop ơi,greeting,
+Chào shop,greeting,
+Bên mình bán iPhone chứ?,brand_question,
+Chụp hình sắc nét không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy này giá bao nhiêu?,price_request,
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chào shop,greeting,
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Pin có tốt không?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Bye shop,goodbye,
+Bye shop,goodbye,
+Cảm ơn nhé,goodbye,
+Bên mình bán iPhone chứ?,brand_question,
+Máy có hỗ trợ chụp đêm không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera của điện thoại này độ phân giải bao nhiêu?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bye shop,goodbye,
+Chụp hình sắc nét không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Cảm ơn nhé,goodbye,
+Dùng Snapdragon hay MediaTek?,chip_question,"Máy trang bị chip Snapdragon 8 Gen 1, cho hiệu năng mạnh mẽ khi chơi game và xử lý tác vụ nặng."
+Chụp hình sắc nét không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bên mình bán iPhone chứ?,brand_question,
+Pin có bền không?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Lưu trữ được nhiều không?,storage_question,"Bộ nhớ trong từ 128GB đến 512GB, có hỗ trợ mở rộng bằng thẻ nhớ."
+Hello,greeting,
+Xin chào,greeting,
+Có điện thoại Samsung không?,brand_question,
+Có điện thoại Samsung không?,brand_question,
+Cảm ơn nhé,goodbye,
+Xin chào,greeting,
+Hello,greeting,
+Có máy Xiaomi không?,brand_question,
+Máy dùng được bao lâu?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Camera của điện thoại này mấy chấm?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy này giá bao nhiêu?,price_request,
+Bao nhiêu tiền?,price_request,
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Có điện thoại Samsung không?,brand_question,
+RAM của điện thoại này là 12GB?,ram_question,"Điện thoại có các tùy chọn RAM từ 6GB đến 12GB, đáp ứng tốt đa nhiệm."
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Chụp hình rõ không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera của điện thoại này bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy dùng được bao lâu?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Bye shop,goodbye,
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Hiệu năng ổn không?,chip_question,"Máy trang bị chip Snapdragon 8 Gen 1, cho hiệu năng mạnh mẽ khi chơi game và xử lý tác vụ nặng."
+Có máy Xiaomi không?,brand_question,
+Máy có bộ nhớ trong bao nhiêu?,storage_question,"Bộ nhớ trong từ 128GB đến 512GB, có hỗ trợ mở rộng bằng thẻ nhớ."
+Máy có hỗ trợ chụp đêm không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Hẹn gặp lại,goodbye,
+Bao nhiêu tiền?,price_request,
+Máy này giá bao nhiêu?,price_request,
+Bên mình bán iPhone chứ?,brand_question,
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Hello,greeting,
+Camera của điện thoại này bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera của điện thoại này mấy chấm?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Xin chào,greeting,
+Chụp hình đẹp không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Shop ơi,greeting,
+Camera của điện thoại này độ phân giải bao nhiêu?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera của điện thoại này mấy chấm?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Shop ơi,greeting,
+Máy có hỗ trợ quay phim 4K không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera của điện thoại này bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera của điện thoại này mấy chấm?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy dùng được mấy tiếng?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Hẹn gặp lại,goodbye,
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Dung lượng pin là bao nhiêu?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Hello,greeting,
+Bao nhiêu tiền?,price_request,
+Máy dùng được bao lâu?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Xin chào,greeting,
+Bên mình bán iPhone chứ?,brand_question,
+Máy có hỗ trợ chụp đêm không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Bao nhiêu tiền?,price_request,
+Bao nhiêu tiền?,price_request,
+Chào shop,greeting,
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Hẹn gặp lại,goodbye,
+Chụp hình đẹp không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chụp hình đẹp không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chụp hình sắc nét không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Xin chào,greeting,
+Chào shop,greeting,
+Camera của điện thoại này độ phân giải bao nhiêu?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Xin chào,greeting,
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chụp hình sắc nét không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Có máy Xiaomi không?,brand_question,
+Camera trước là bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Dung lượng pin là bao nhiêu?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Tạm biệt,goodbye,
+Pin có bền không?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Hello,greeting,
+Máy có bao nhiêu giga RAM?,ram_question,"Điện thoại có các tùy chọn RAM từ 6GB đến 12GB, đáp ứng tốt đa nhiệm."
+Shop ơi,greeting,
+Bao nhiêu tiền?,price_request,
+Chụp hình sắc nét không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chụp hình sắc nét không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy có hỗ trợ quay phim 4K không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Có tùy chọn RAM 6GB không?,ram_question,"Điện thoại có các tùy chọn RAM từ 6GB đến 12GB, đáp ứng tốt đa nhiệm."
+Dung lượng pin bao nhiêu?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Chụp hình rõ không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Cảm ơn nhé,goodbye,
+Máy có hỗ trợ quay phim 4K không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chụp hình sắc nét không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Shop ơi,greeting,
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Có điện thoại Samsung không?,brand_question,
+Chào shop,greeting,
+Hello,greeting,
+Tạm biệt,goodbye,
+Cảm ơn nhé,goodbye,
+Tạm biệt,goodbye,
+Xin chào,greeting,
+Tạm biệt,goodbye,
+Camera của điện thoại này mấy chấm?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Giá điện thoại là bao nhiêu vậy?,price_request,
+Camera của điện thoại này độ phân giải bao nhiêu?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Xin chào,greeting,
+Camera của điện thoại này bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy này giá bao nhiêu?,price_request,
+Máy có hỗ trợ chụp đêm không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Pin có tốt không?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Chụp hình rõ không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy có hỗ trợ chống rung OIS không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Có điện thoại Samsung không?,brand_question,
+Bên mình bán iPhone chứ?,brand_question,
+Pin có tốt không?,battery_question,"Pin 5000mAh dùng thoải mái cả ngày, hỗ trợ sạc nhanh 33W."
+Bên mình bán iPhone chứ?,brand_question,
+Xin chào,greeting,
+Có máy Xiaomi không?,brand_question,
+Camera của điện thoại này mấy chấm?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chụp hình đẹp không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Có máy Xiaomi không?,brand_question,
+Cảm ơn nhé,goodbye,
+Camera trước là bao nhiêu megapixel?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Camera của điện thoại này bao nhiêu MP?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chào shop,greeting,
+Có điện thoại Samsung không?,brand_question,
+Tạm biệt,goodbye,
+Máy có hỗ trợ chống rung OIS không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Máy có hỗ trợ quay phim 4K không?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Shop ơi,greeting,
+Camera của điện thoại này mấy chấm?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."
+Chào shop,greeting,
+Hẹn gặp lại,goodbye,
+Camera của điện thoại này mấy chấm?,camera_question,"Điện thoại này có camera chính 50MP, hỗ trợ quay phim 4K và chụp ảnh chất lượng cao."

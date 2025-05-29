@@ -1,0 +1,197 @@
+Product,Brand,FinalPrice,RAM,Storage,RearCameraResolution,BatteryCapacity
+iPhone 12 128GB,iPhone (Apple),10.990.000₫,4,128,2 camera 12,2815
+iPhone 12 64GB,iPhone (Apple),9.990.000₫,4,64,2 camera 12,2815
+iPhone 13 512GB,iPhone (Apple),21.990.000₫,4,512,2 camera 12,3240
+iPhone 13 256GB,iPhone (Apple),16.490.000₫,4,256,2 camera 12,3240
+iPhone 13 128GB,iPhone (Apple),11.690.000₫,4,128,2 camera 12,3240
+iPhone 14 256GB,iPhone (Apple),16.490.000₫,6,256,2 camera 12,3279
+iPhone 14 128GB,iPhone (Apple),12.690.000₫,6,128,2 camera 12,3279
+iPhone 15 Pro Max 1TB,iPhone (Apple),38.990.000₫,8,1 TB,"Chính 48  & Phụ 12 , 12",4422
+iPhone 15 Pro Max 512GB,iPhone (Apple),32.990.000₫,8,512,"Chính 48  & Phụ 12 , 12",4422
+iPhone 15 Pro Max 256GB,iPhone (Apple),29.990.000₫,8,256,"Chính 48  & Phụ 12 , 12",4422
+iPhone 15 Plus 512GB,iPhone (Apple),28.790.000₫,6,512,Chính 48  & Phụ 12,4383
+iPhone 15 Plus 256GB,iPhone (Apple),22.690.000₫,6,256,Chính 48  & Phụ 12,4383
+iPhone 15 Plus 128GB,iPhone (Apple),19.390.000₫,6,128,Chính 48  & Phụ 12,4383
+iPhone 16e 512GB,iPhone (Apple),25.590.000₫,8,512,48,26 giờ
+iPhone 16e 256GB,iPhone (Apple),19.390.000₫,8,256,48,26 giờ
+iPhone 16 Pro 1TB,iPhone (Apple),40.590.000₫,8,1 TB,"Chính 48  & Phụ 48 , 12",27 giờ
+iPhone 16 Pro 512GB,iPhone (Apple),34.690.000₫,8,512,"Chính 48  & Phụ 48 , 12",27 giờ
+iPhone 16 Pro 256GB,iPhone (Apple),28.190.000₫,8,256,"Chính 48  & Phụ 48 , 12",27 giờ
+iPhone 16 Plus 512GB,iPhone (Apple),31.990.000₫,8,512,Chính 48  & Phụ 12,27 giờ
+iPhone 16 Plus 256GB,iPhone (Apple),25.290.000₫,8,256,Chính 48  & Phụ 12,27 giờ
+iPhone 15 512GB,iPhone (Apple),24.990.000₫,6,512,Chính 48  & Phụ 12,3349
+iPhone 15 256GB,iPhone (Apple),18.990.000₫,6,256,Chính 48  & Phụ 12,3349
+iPhone 15 128GB,iPhone (Apple),15.890.000₫,6,128,Chính 48  & Phụ 12,3349
+iPhone 16e 128GB,iPhone (Apple),16.190.000₫,8,128,48,26 giờ
+iPhone 16 Plus 128GB,iPhone (Apple),22.190.000₫,8,128,Chính 48  & Phụ 12,27 giờ
+iPhone 16 Pro 128GB,iPhone (Apple),25.090.000₫,8,128,"Chính 48  & Phụ 48 , 12",27 giờ
+iPhone 16 Pro Max 1TB,iPhone (Apple),43.090.000₫,8,1 TB,"Chính 48  & Phụ 48 , 12",33 giờ
+iPhone 16 Pro Max 512GB,iPhone (Apple),36.890.000₫,8,512,"Chính 48  & Phụ 48 , 12",33 giờ
+iPhone 16 Pro Max 256GB,iPhone (Apple),30.590.000₫,8,256,"Chính 48  & Phụ 48 , 12",33 giờ
+Benco 4G G3,Benco,380.000₫,48 MB,128 MB,Hãng không công bố,1000
+Viettel Sumo 4G T2,Viettel,550.000₫,48 MB,128 MB,0.08,1400
+Itel it9211,Itel,430.000₫,64 MB,128 MB,0.08,1000
+Itel it9310,Itel,560.000₫,64 MB,128 MB,0.08,2000
+Mobell F209,Mobell,620.000₫,48 MB,128 MB,0.08,1500
+Mobell F309 4G,Mobell,760.000₫,48 MB,128 MB,0.08,1600
+Mobell M539,Mobell,700.000₫,48 MB,128 MB,0.08,2000
+Mobell M331 4G,Mobell,550.000₫,48 MB,128 MB,0.08,1000
+Mobell M239 4G,Mobell,460.000₫,48 MB,128 MB,0.08,1000
+Tecno Spark 30 5G 6GB/128GB,Tecno,4.090.000₫,6,128,Chính: 108  & Phụ: Cảm biến ánh sáng,5000
+Tecno Spark 30C 6GB/128GB,Tecno,2.990.000₫,6,128,48,5000
+Tecno Spark GO 1 3GB/64GB,Tecno,1.990.000₫,64,45,Chính 13  & Phụ AI,5000
+Tecno Spark 30 8GB/128GB,Tecno,3.590.000₫,8,128,Chính 64  & Phụ 2,5000
+TCL 406s 4GB/64GB,TCL,1.890.000₫,4,64,Chính 13  & Phụ 2,5000
+Masstel Fami 60S 4G,Masstel,700.000₫,NaN,2000 số,NaN,2300
+Masstel IZI T6 4G,Masstel,500.000₫,NaN,2000 số,NaN,1800
+Masstel Fami 50 4G,Masstel,600.000₫,NaN,2000 số,NaN,1750
+Masstel IZI 10,Masstel,410.000₫,2000 số,NaN,NaN,1000
+Masstel S9 6GB/256GB,Masstel,2.890.000₫,6,256,"Chính 50  & Phụ 2 , CIF",5000
+Nokia 3210 4G,Nokia,1.590.000₫,128 MB,NaN,2,1450
+Nokia 110 4G Pro,Nokia,750.000₫,128 MB,33.1 MB,QVGA (320 x 240 pixels),1450
+Nokia 220 4G,Nokia,990.000₫,128 MB,NaN,NaN,1450
+Nokia 105 4G Pro,Nokia,680.000₫,128 MB,33.1 MB,NaN,1450
+Nokia HMD 105 4G,Nokia,650.000₫,NaN,NaN,Hãng không công bố,1450
+HONOR Magic V3 5G 12GB/512GB,HONOR,36.990.000₫,12,512,"Chính 50  & Phụ 50 , 40",5150
+HONOR 200 5G 12GB/256GB,HONOR,11.490.000₫,12,256,"Chính 50  & Phụ 50 , 12",5200
+HONOR X7c 8GB/256GB,HONOR,5.290.000₫,8,256,Chính 108  & Phụ 2,6000
+HONOR X5 Plus 4GB/64GB,HONOR,2.490.000₫,4,64,Chính 50  & Phụ 2,5200
+HONOR X6b 6GB/128GB Tím,HONOR,3.890.000₫,6,128,Chính 50  & Phụ 2,5200
+HONOR X8b 8GB/512GB,HONOR,7.690.000₫,8,512,"Chính 108  & Phụ 5 , 2",4500
+HONOR X5b 4GB/64GB,HONOR,2.190.000₫,4,64,Chính 13  & Ống kính phụ,5200
+HONOR X5b Plus 4GB/128GB,HONOR,2.790.000₫,4,128,Chính 50  & Ống kính phụ,5200
+HONOR X9c 5G 12GB/256GB,HONOR,9.290.000₫,12,256,Chính 108  & Phụ 5,6600
+HONOR X9c Smart 5G 12GB/256GB,HONOR,7.790.000₫,12,256,Chính 108  & Phụ 5,5800
+HONOR X8c 8GB/512GB,HONOR,7.390.000₫,8,512,Chính 108  & Phụ 5,5000
+HONOR X8c 8GB/256GB,HONOR,6.690.000₫,8,256,Chính 108  & Phụ 5,5000
+vivo Y100 8GB/128GB,vivo,6.290.000₫,8,128,"Chính 50  & Phụ 2 , Flicker",5000
+vivo Y100 8GB/256GB,vivo,6.690.000₫,8,256,"Chính 50  & Phụ 2 , Flicker",5000
+vivo Y18 8GB/128GB,vivo,4.490.000₫,8,128,Chính 50  & Phụ 0.08,5000
+vivo Y18 4GB/128GB,vivo,3.990.000₫,4,128,Chính 50  & Phụ 0.08,5000
+vivo Y28 8GB/256GB,vivo,6.490.000₫,8,256,Chính 50  & Phụ 2,6000
+vivo Y28 8GB/128GB,vivo,5.790.000₫,8,128,Chính 50  & Phụ 2,6000
+vivo V40 5G 12GB/256GB,vivo,12.990.000₫,12,256,2 camera 50,5500
+vivo Y03 4GB/64GB,vivo,2.690.000₫,4,64,Chính 13  & Phụ 0.08,5000
+vivo Y03 4GB/128GB,vivo,3.290.000₫,4,128,Chính 13  & Phụ 0.08,5000
+vivo V30e 5G 8GB/256GB,vivo,7.990.000₫,8,256,Chính 50  & Phụ 8,5500
+vivo V30e 5G 12GB/256GB,vivo,8.490.000₫,12,256,Chính 50  & Phụ 8,5500
+vivo V30 5G 12GB/512GB,vivo,12.790.000₫,12,512,Chính 50  & Phụ 50,5000
+vivo V40 Lite 8GB/256GB,vivo,8.490.000₫,8,256,Chính 50  & Phụ 2,5000
+vivo Y04 6GB/128GB,vivo,3.990.000₫,6,128,Chính 13  & Phụ 0.08,5500
+vivo Y04 4GB/64GB,vivo,2.990.000₫,4,64,Chính 13  & Phụ 0.08,5500
+vivo Y04 4GB/128GB,vivo,3.490.000₫,4,128,Chính 13  & Phụ 0.08,5500
+vivo Y19s 4GB/128GB,vivo,3.990.000₫,4,128,Chính 50  & Phụ 0.08,5500
+vivo Y19s 6GB/128GB,vivo,4.290.000₫,6,128,Chính 50  & Phụ 0.08,5500
+vivo Y29 8GB/256GB,vivo,7.290.000₫,8,256,Chính 50  & Phụ 2,6500
+vivo Y29 8GB/128GB,vivo,6.890.000₫,8,128,Chính 50  & Phụ 2,6500
+realme 12 8GB/512GB,realme,8.990.000₫,8,512,Chính 50  & Phụ 2,5000
+realme 12 8GB/256GB,realme,7.990.000₫,8,256,Chính 50  & Phụ 2,5000
+realme C65s 8GB/256GB,realme,5.290.000₫,8,256,Chính 50  & Cảm biến Flicker,5000
+realme C65s 8GB/128GB,realme,4.790.000₫,8,128,Chính 50  & Cảm biến Flicker,5000
+realme C65s 6GB/128GB,realme,4.290.000₫,6,128,Chính 50  & Cảm biến Flicker,5000
+realme Note 50 3GB/64GB,realme,2.490.000₫,3,64,Chính 13  & Phụ 0.08,5000
+realme Note 60x 3GB/64GB,realme,2.590.000₫,3,64,8,5000
+realme Note 60x 4GB/64GB,realme,2.990.000₫,4,64,8,5000
+realme 13+ 5G 12GB/256GB,realme,9.990.000₫,12,256,"Chính 50  & Phụ 2 , Flicker",5000
+realme Note 60 4GB/128GB,realme,3.390.000₫,4,128,Chính 32  & Cảm biến Flicker,5000
+realme Note 60 4GB/64GB,realme,2.990.000₫,4,64,Chính 32  & Cảm biến Flicker,5000
+realme Note 60 6GB/128GB,realme,3.790.000₫,6,128,Chính 32  & Cảm biến Flicker,5000
+realme C75 8GB/512GB,realme,7.490.000₫,8,512,Chính 50  & Cảm biến Flicker,6000
+realme C75 8GB/256GB,realme,6.490.000₫,8,256,Chính 50  & Cảm biến Flicker,6000
+realme C75 8GB/128GB,realme,5.690.000₫,8,128,Chính 50  & Cảm biến Flicker,6000
+realme C75x 8GB/256GB,realme,5.790.000₫,8,256,Chính 50  & Cảm biến Flicker,5600
+realme C75x 8GB/128GB,realme,5.290.000₫,8,128,Chính 50  & Cảm biến Flicker,5600
+realme C75x 6GB/128GB,realme,4.690.000₫,6,128,Chính 50  & Cảm biến Flicker,5600
+Xiaomi Redmi Note 14 5G 8GB/256GB,Xiaomi,7.290.000₫,8,256,"Chính 108  & Phụ 8 , 2",5110
+Xiaomi Redmi Note 14 6GB/128GB,Xiaomi,4.990.000₫,6,128,"Chính 108  & Phụ 2 , 2",5500
+Xiaomi Redmi Note 14 8GB/256GB,Xiaomi,5.990.000₫,8,256,"Chính 108  & Phụ 2 , 2",5500
+Xiaomi Redmi Note 14 8GB/128GB,Xiaomi,5.490.000₫,8,128,"Chính 108  & Phụ 2 , 2",5500
+Xiaomi Redmi 14C 4GB/128GB,Xiaomi,3.290.000₫,4,128,Chính 50  & Phụ QVGA,5160
+Xiaomi Redmi 14C 6GB/128GB,Xiaomi,3.690.000₫,6,128,Chính 50  & Phụ QVGA,5160
+Xiaomi Redmi 13 8GB/128GB,Xiaomi,4.690.000₫,8,128,Chính 108  & Phụ 2,5030
+Xiaomi Redmi 13 6GB/128GB,Xiaomi,4.290.000₫,6,128,Chính 108  & Phụ 2,5030
+Xiaomi Redmi A3 4GB/128GB,Xiaomi,2.890.000₫,4,128,Chính 8  & Phụ 0.08,5000
+Xiaomi Redmi A3 3GB/64GB,Xiaomi,2.490.000₫,3,64,Chính 8  & Phụ 0.08,5000
+Xiaomi 14T Pro 5G 12GB/512GB,Xiaomi,16.990.000₫,12,512,"Chính 50  & Phụ 50 , 12",5000
+Xiaomi 14T Pro 5G 12GB/256GB,Xiaomi,15.990.000₫,12,256,"Chính 50  & Phụ 50 , 12",5000
+Xiaomi 14T 5G 12GB/512GB,Xiaomi,12.490.000₫,12,512,"Chính 50  & Phụ 50 , 12",5000
+Xiaomi 14T 5G 12GB/512GB Xanh,Xiaomi,12.490.000₫,12,512,"Chính 50  & Phụ 50 , 12",5000
+Xiaomi 14T 5G 12GB/256GB,Xiaomi,11.490.000₫,12,256,"Chính 50  & Phụ 50 , 12",5000
+Xiaomi 15 Ultra 5G 16GB/1TB,Xiaomi,34.990.000₫,16,1 TB,"Chính 50  & Phụ 200 , 50 , 50",5410
+Xiaomi 15 Ultra 5G 16GB/512GB,Xiaomi,32.990.000₫,16,512,"Chính 50  & Phụ 200 , 50 , 50",5410
+Xiaomi 15 Ultra 5G 16GB/512GB Trắng,Xiaomi,32.990.000₫,16,512,"Chính 50  & Phụ 200 , 50 , 50",5410
+Xiaomi 15 5G 12GB/256GB,Xiaomi,22.990.000₫,12,256,3 camera 50,5240
+Xiaomi 15 5G 12GB/512GB,Xiaomi,24.990.000₫,12,512,3 camera 50,5240
+Xiaomi Redmi 13x 8GB/128GB,Xiaomi,4.690.000₫,8,128,Chính 108  & Phụ 2,5030
+Xiaomi Redmi 13x 6GB/128GB,Xiaomi,4.290.000₫,6,128,Chính 108  & Phụ 2,5030
+Xiaomi Redmi Note 14 Pro+ 5G 8GB/256GB,Xiaomi,10.690.000₫,8,256,"Chính 200  & Phụ 8 , 2",5110
+OPPO A38 6GB/128GB,OPPO,3.990.000₫,6,128,Chính 50  & Phụ 2,5000
+OPPO Find N3 5G 16GB/512GB,OPPO,30.990.000₫,16,512,"Chính 48  & Phụ 48 , 64",4805
+OPPO Reno12 Pro 5G 12GB/512GB,OPPO,15.990.000₫,12,512,"Chính 50  & Phụ 50 , 8",5000
+OPPO Reno12 F 5G 8GB/256GB,OPPO,8.790.000₫,8,256,"Chính 50  & Phụ 8 , 2",5000
+OPPO Reno12 F 5G 12GB/256GB,OPPO,7.990.000₫,12,256,"Chính 50  & Phụ 8 , 2",5000
+OPPO Reno12 5G 12GB/256GB Hồng,OPPO,9.190.000₫,12,256,"Chính 50  & Phụ 8 , 2",5000
+OPPO Find N3 Flip 5G 12GB/256GB Đen/Vàng đồng,OPPO,16.490.000₫,12,256,"Chính 50  & Phụ 48 , 32",4300
+OPPO Find N3 Flip 5G 12GB/256GB Hồng,OPPO,16.490.000₫,12,256,"Chính 50  & Phụ 48 , 32",4300
+OPPO A58 8GB/128GB,OPPO,5.390.000₫,8,128,Chính 50  & Phụ 2,5000
+OPPO Reno12 5G 12GB/512GB,OPPO,11.990.000₫,12,512,"Chính 50  & Phụ 8 , 2",5000
+OPPO Reno13 F 5G 12GB/512GB,OPPO,11.490.000₫,12,512,"Chính 50  & Phụ 8 , 2",5800
+OPPO Reno13 F 5G 8GB/256GB,OPPO,9.990.000₫,8,256,"Chính 50  & Phụ 8 , 2",5800
+OPPO Find X8 Pro 5G 16GB/512GB,OPPO,29.990.000₫,16,512,4 camera 50,5910
+OPPO Find X8 5G 16GB/512GB,OPPO,21.990.000₫,16,512,3 camera 50,5630
+OPPO Find X8 5G 16GB/512GB Hồng,OPPO,21.990.000₫,16,512,3 camera 50,5630
+OPPO Reno12 F 8GB/256GB,OPPO,8.490.000₫,8,256,"Chính 50  & Phụ 8 , 2",5000
+OPPO A3 8GB/256GB,OPPO,6.490.000₫,8,256,Chính 50  & Cảm biến Flicker,5100
+OPPO A3 6GB/128GB,OPPO,4.990.000₫,6,128,Chính 50  & Cảm biến Flicker,5100
+OPPO A3 8GB/128GB,OPPO,5.290.000₫,8,128,Chính 50  & Cảm biến Flicker,5100
+OPPO A3x 6GB/128GB,OPPO,4.690.000₫,6,128,Chính 8  & Cảm biến Flicker,5100
+OPPO A3x 4GB/128GB,OPPO,3.990.000₫,4,128,Chính 8  & Cảm biến Flicker,5100
+OPPO A3x 4GB/64GB,OPPO,3.490.000₫,4,64,Chính 8  & Cảm biến Flicker,5100
+OPPO A5 Pro 5G 8GB/256GB,OPPO,8.490.000₫,8,256,Chính 50  & Phụ 2,5800
+OPPO A5 Pro 8GB/256GB,OPPO,6.990.000₫,8,256,Chính 50  & Phụ 2,5800
+OPPO A60 8GB/256GB,OPPO,6.490.000₫,8,256,Chính 50  & Phụ 2,5000
+OPPO A60 8GB/128GB,OPPO,5.490.000₫,8,128,Chính 50  & Phụ 2,5000
+OPPO Reno13 F 8GB/256GB,OPPO,8.990.000₫,8,256,"Chính 50  & Phụ 8 , 2",5800
+OPPO Reno13 Pro 5G 12GB/512GB,OPPO,18.490.000₫,12,512,"Chính 50  & Phụ 50 , 8",5800
+OPPO Reno13 5G 12GB/512GB,OPPO,16.490.000₫,12,512,"Chính 50  & Phụ 8 , 2",5600
+OPPO Reno13 5G 12GB/256GB,OPPO,14.990.000₫,12,256,"Chính 50  & Phụ 8 , 2",5600
+OPPO Find N5 5G 16GB/512GB,OPPO,44.990.000₫,16,512,"Chính 50  & Phụ 50 , 8",5600
+Samsung Galaxy M15 5G 6GB/128GB,Samsung,4.490.000₫,6,128,"Chính 50  & Phụ 5 , 2",6000
+Samsung Galaxy Z Flip6 5G 12GB/512GB,Samsung,25.990.000₫,12,512,Chính 50  & Phụ 12,4000
+Samsung Galaxy A55 5G 8GB/256GB,Samsung,8.690.000₫,8,256,"Chính 50  & Phụ 12 , 5",5000
+Samsung Galaxy A55 5G 12GB/256GB,Samsung,9.690.000₫,12,256,"Chính 50  & Phụ 12 , 5",5000
+Samsung Galaxy A16 8GB/256GB,Samsung,5.890.000₫,8,256,"Chính 50  & Phụ 5 , 2",5000
+Samsung Galaxy A16 4GB/128GB,Samsung,5.090.000₫,4,128,"Chính 50  & Phụ 5 , 2",5000
+Samsung Galaxy S25 Plus 5G 12GB/512GB,Samsung,24.990.000₫,12,512,"Chính 50  & Phụ 12 , 10",4900
+Samsung Galaxy S25 Plus 5G 12GB/256GB,Samsung,23.190.000₫,12,256,"Chính 50  & Phụ 12 , 10",4900
+Samsung Galaxy A16 8GB/128GB,Samsung,5.390.000₫,8,128,"Chính 50  & Phụ 5 , 2",5000
+Samsung Galaxy M35 5G 8GB/256GB,Samsung,8.790.000₫,8,256,"Chính 50  & Phụ 8 , 2",6000
+Samsung Galaxy S24 Ultra 5G 12GB/256GB,Samsung,23.990.000₫,12,256,"Chính 200  & Phụ 50 , 12 , 10",5000
+Samsung Galaxy A26 5G 8GB/256GB,Samsung,7.690.000₫,8,256,"Chính 50  & Phụ 8 , 2",5000
+Samsung Galaxy A26 5G 8GB/128GB,Samsung,6.490.000₫,8,128,"Chính 50  & Phụ 8 , 2",5000
+Samsung Galaxy A26 5G 6GB/128GB,Samsung,6.390.000₫,6,128,"Chính 50  & Phụ 8 , 2",5000
+Samsung Galaxy A06 4GB/128GB,Samsung,3.390.000₫,4,128,Chính 50  & Phụ 2,5000
+Samsung Galaxy A06 6GB/128GB,Samsung,3.690.000₫,6,128,Chính 50  & Phụ 2,5000
+Samsung Galaxy A06 4GB/64GB,Samsung,3.090.000₫,4,64,Chính 50  & Phụ 2,5000
+Samsung Galaxy A16 5G 8GB/128GB,Samsung,6.090.000₫,8,128,"Chính 50  & Phụ 5 , 2",5000
+Samsung Galaxy A16 5G 8GB/256GB,Samsung,6.990.000₫,8,256,"Chính 50  & Phụ 5 , 2",5000
+Samsung Galaxy S25 5G 12GB/512GB,Samsung,22.690.000₫,12,512,"Chính 50  & Phụ 12 , 10",4000
+Samsung Galaxy S25 5G 12GB/256GB,Samsung,19.690.000₫,12,256,"Chính 50  & Phụ 12 , 10",4000
+Samsung Galaxy A25 5G 8GB/128GB,Samsung,6.490.000₫,8,128,"Chính 50  & Phụ 8 , 2",5000
+Samsung Galaxy S24 5G 8GB/256GB,Samsung,16.590.000₫,8,256,"Chính 50  & Phụ 12 , 10",4000
+Samsung Galaxy S24 FE 5G 8GB/128GB,Samsung,12.790.000₫,8,128,"Chính 50  & Phụ 12 , 8",4700
+Samsung Galaxy S24 FE 5G 8GB/256GB,Samsung,13.890.000₫,8,256,"Chính 50  & Phụ 12 , 8",4700
+Samsung Galaxy A35 5G 8GB/256GB,Samsung,8.190.000₫,8,256,"Chính 50  & Phụ 8 , 5",5000
+Samsung Galaxy Z Fold6 5G 12GB/512GB,Samsung,38.490.000₫,12,512,"Chính 50  & Phụ 12 , 10",4400
+Samsung Galaxy Z Fold6 5G 12GB/256GB,Samsung,36.190.000₫,12,256,"Chính 50  & Phụ 12 , 10",4400
+Samsung Galaxy S25 Ultra 5G 12GB/1TB,Samsung,35.490.000₫,12,1 TB,"Chính 200  & Phụ 50 , 50 , 10",5000
+Samsung Galaxy S25 Ultra 5G 12GB/512GB,Samsung,30.190.000₫,12,512,"Chính 200  & Phụ 50 , 50 , 10",5000
+Samsung Galaxy S25 Ultra 5G 12GB/256GB,Samsung,28.990.000₫,12,256,"Chính 200  & Phụ 50 , 50 , 10",5000
+Samsung Galaxy A36 5G 8GB/256GB,Samsung,8.790.000₫,8,256,"Chính 50  & Phụ 8 , 5",5000
+Samsung Galaxy A36 5G 8GB/128GB,Samsung,7.790.000₫,8,128,"Chính 50  & Phụ 8 , 5",5000
+Samsung Galaxy A36 5G 12GB/256GB,Samsung,9.490.000₫,12,256,"Chính 50  & Phụ 8 , 5",5000
+Samsung Galaxy A06 5G 4GB/128GB,Samsung,3.790.000₫,4,128,Chính 50  & Phụ 2,5000
+Samsung Galaxy A06 5G 6GB/128GB,Samsung,4.290.000₫,6,128,Chính 50  & Phụ 2,5000
+Samsung Galaxy A56 5G 8GB/256GB,Samsung,10.190.000₫,8,256,"Chính 50  & Phụ 12 , 5",5000
+Samsung Galaxy A56 5G 8GB/128GB,Samsung,9.490.000₫,8,128,"Chính 50  & Phụ 12 , 5",5000
+Samsung Galaxy A56 5G 12GB/256GB,Samsung,11.190.000₫,12,256,"Chính 50  & Phụ 12 , 5",5000

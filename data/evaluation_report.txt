@@ -1,0 +1,15 @@
+                  precision    recall  f1-score   support
+
+battery_question       1.00      1.00      1.00         5
+  brand_question       1.00      1.00      1.00        17
+ camera_question       0.89      1.00      0.94        47
+   chip_question       1.00      0.50      0.67         2
+         goodbye       1.00      1.00      1.00        21
+        greeting       1.00      1.00      1.00        21
+   price_request       1.00      1.00      1.00         8
+    ram_question       1.00      0.40      0.57         5
+storage_question       0.00      0.00      0.00         2
+
+        accuracy                           0.95       128
+       macro avg       0.88      0.77      0.80       128
+    weighted avg       0.94      0.95      0.94       128
