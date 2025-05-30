@@ -275,16 +275,16 @@ Hệ thống lưu lại lịch sử câu hỏi, intent và câu trả lời đ�
 
 # ## 🤖 So sánh các loại Chatbot: Expert System (Luật), Machine Learning, Gemini API (LLM)
 
-| Đặc điểm                         | Chatbot Hệ chuyên gia (Luật & Regex)            | Chatbot Machine Learning (ML)                  | Chatbot API LLM (Gemini, GPT...)                          |
-|----------------------------------|--------------------------------------------------|------------------------------------------------|-----------------------------------------------------------|
-| 🔍 **Cách hoạt động**            | Dựa vào các luật `if/else`, biểu thức regex     | Dựa vào mô hình học máy (Intent Classification)| Gửi prompt vào API, mô hình ngôn ngữ sinh phản hồi        |
-| 🧠 **Trí tuệ / Khả năng hiểu**   | Rất hạn chế, chỉ hiểu đúng mẫu đã định nghĩa    | Trung bình, tùy thuộc mô hình huấn luyện       | Rất mạnh, có thể hiểu và tổng hợp tự nhiên                |
-| 🧩 **Khả năng mở rộng**          | Khó mở rộng khi số luật tăng nhiều              | Có thể mở rộng tốt hơn luật                     | Rất linh hoạt và mở rộng dễ dàng                          |
-| 🛠 **Yêu cầu kỹ thuật**          | Chỉ cần Python, regex, pandas...                | Cần train mô hình ML, xử lý dữ liệu             | Cần kết nối API, dùng tài khoản + token                   |
-| 🧪 **Ví dụ kỹ thuật**            | `Regex: r'(\d+) triệu', if "ram" in text`       | `TF-IDF + SVM/Naive Bayes + intent.json`        | Prompt: `"Tôi muốn điện thoại pin trâu, RAM 8GB..."`     |
-| 💬 **Phản hồi**                  | Ngắn, logic cứng, theo kịch bản                 | Phản hồi dựa trên intent và template            | Phản hồi phong phú, có thể giải thích chi tiết            |
-| 🧑‍🏫 **Ứng dụng phù hợp**        | Chatbot đơn giản, phản hồi cố định              | Chatbot vừa, chatbot phân loại ý định           | Chatbot tự nhiên, tư vấn bán hàng nâng cao               |
-| 📉 **Nhược điểm**               | Cứng nhắc, không hiểu câu viết khác mẫu         | Dễ sai nếu không có đủ dữ liệu huấn luyện       | Tốn chi phí API, có độ trễ, cần xử lý lỗi đầu ra          |
+| Đặc điểm                         | Chatbot Hệ chuyên gia (Luật & Regex)            | Chatbot Machine Learning (ML)                                  | Chatbot API LLM (Gemini, GPT...)                          |
+|----------------------------------|--------------------------------------------------|----------------------------------------------------------------|-----------------------------------------------------------|
+| 🔍 **Cách hoạt động**            | Dựa vào các luật `if/else`, biểu thức regex     | Dựa vào mô hình học máy (Intent Classification)                | Gửi prompt vào API, mô hình ngôn ngữ sinh phản hồi        |
+| 🧠 **Trí tuệ / Khả năng hiểu**   | Rất hạn chế, chỉ hiểu đúng mẫu đã định nghĩa    | Trung bình, tùy thuộc mô hình huấn luyện                       | Rất mạnh, có thể hiểu và tổng hợp tự nhiên                |
+| 🧩 **Khả năng mở rộng**          | Khó mở rộng khi số luật tăng nhiều              | Có thể mở rộng tốt hơn luật                                    | Rất linh hoạt và mở rộng dễ dàng                          |
+| 🛠 **Yêu cầu kỹ thuật**          | Chỉ cần Python, regex, pandas...                | Cần train mô hình ML, xử lý dữ liệu                            | Cần kết nối API, dùng tài khoản + token                   |
+| 🧪 **Ví dụ kỹ thuật**            | `Regex: r'(\d+) triệu', if "ram" in text`       | `Logistic Regression + TF-IDF Vectorizer + intent_data.csv + intent_answers.json` | Prompt: `"Tôi muốn điện thoại pin trâu, RAM 8GB..."`     |
+| 💬 **Phản hồi**                  | Ngắn, logic cứng, theo kịch bản                 | Phản hồi dựa trên intent và template                           | Phản hồi phong phú, có thể giải thích chi tiết            |
+| 🧑‍🏫 **Ứng dụng phù hợp**        | Chatbot đơn giản, phản hồi cố định              | Chatbot vừa, chatbot phân loại ý định                          | Chatbot tự nhiên, tư vấn bán hàng nâng cao               |
+| 📉 **Nhược điểm**               | Cứng nhắc, không hiểu câu viết khác mẫu         | Dễ sai nếu không có đủ dữ liệu huấn luyện                      | Tốn chi phí API, có độ trễ, cần xử lý lỗi đầu ra          |
 
 ## 📬 Liên Hệ
 
