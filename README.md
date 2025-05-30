@@ -13,6 +13,21 @@ Chatbot hỗ trợ người dùng tìm kiếm và nhận tư vấn về điện 
 - 💬 Giao diện trò chuyện thân thiện, dễ dùng
 
 - 🔍 Nhớ ngữ cảnh câu hỏi trước đó để phân tích tốt hơn
+# cấu trúc  thư mu
+## 📁 Chi tiết các file chính
+
+| File / Thư mục | Vai trò |
+|----------------|--------|
+| `App_model_ML.py` | Chạy giao diện chính, xử lý hội thoại, gọi Gemini/luật |
+| `data/` | Chứa dữ liệu đầu vào: sản phẩm, mô hình máy học, phản hồi |
+| `dienthoai_renamed (1).csv` | Dữ liệu về điện thoại (giá, RAM, pin, camera, hãng,...) |
+| `intent_classifier.pkl` | Mô hình ML để phân loại câu hỏi người dùng (ý định) |
+| `tfidf_vectorizer.pkl` | Vector hóa câu hỏi để mô hình có thể hiểu |
+| `intent_answers.json` | Các câu trả lời tương ứng với từng loại ý định |
+| `modules/model_loader.py` | Nạp các mô hình ML, vectorizer, dữ liệu JSON |
+| `modules/chatbot_logic.py` | Phân tích câu hỏi → phân loại → trả lời hoặc gọi Gemini |
+| `modules/ui_components.py` | Hàm hiển thị tin nhắn, thẻ sản phẩm, đoạn hội thoại |
+| `README.md` | Hướng dẫn cài đặt, sử dụng, phát triển tiếp chatbot |
 
 📊 Dữ liệu điện thoại từ file CSV có thông tin sản phẩm và giá
 ---
@@ -237,7 +252,16 @@ Hệ thống lưu lại lịch sử câu hỏi, intent và câu trả lời đ�
 - -------
 # 🤖 Chatbot Tư Vấn Điện Thoại  --- API Gemini AI
 ## cấu trúc thư mục và giải thích: 
-phonechatbot.py và file data : data/dienthoai_renamed (1).csv
+
+📁 Chi tiết các file chính
+|### 📁 Mô tả file chính và dữ liệu
+
+| File / Dữ liệu              | Vai trò                                                   |
+|----------------------------|------------------------------------------------------------|
+| `phonechatbot.py`           | Giao diện chính của chatbot, xử lý hội thoại và gọi API   |
+| `data/dienthoai_renamed (1).csv` | Dữ liệu sản phẩm để tư vấn và lọc theo yêu cầu người dùng |
+
+
 ![Gemini_ai.png](image/Gemini_ai.png)
 
 # Giao diện : 
