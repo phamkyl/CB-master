@@ -233,7 +233,7 @@ Hệ thống lưu lại lịch sử câu hỏi, intent và câu trả lời đ�
 
 # quy trình hoạt động ứng dụng : 
 ---
-![_- visual selection (2).png](image/_-%20visual%20selection%20%282%29.png)
+![_- visual selection (2)_Rule_regex.png](image/_-%20visual%20selection%20%282%29_Rule_regex.png)
 ---
 # quy trình hoạt động của extractor.py 
 ![loc_dien_thoai.png](image/loc_dien_thoai.png)
