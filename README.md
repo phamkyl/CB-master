@@ -270,7 +270,7 @@ Hệ thống lưu lại lịch sử câu hỏi, intent và câu trả lời đ�
 - `streamlit run phonechatbot.py`
 - -------------
 
-# cấu trúc cây thư mục : 
+# cấu trúc cây thư mục cho toàn bộ bài : 
 ![img.png](img.png)
 ## 📬 Liên Hệ
 
